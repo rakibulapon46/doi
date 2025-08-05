@@ -2,7 +2,7 @@ import './App.css';
 import UserData from './components/UserData';
 import { useState, useEffect } from 'react';
 
-const API = "https://rakibulapon46.github.io/api/doi.json"
+const API = "https://github.com/rakibulapon46/api/blob/main/doi.json"
 function App() {
 
   const [users, setUsers] = useState([]);
